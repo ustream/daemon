@@ -1,0 +1,1 @@
+All pull requests are welcome, tests are nice to have but not mandatory.

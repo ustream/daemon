@@ -1,0 +1,45 @@
+{
+    "name": "ustream/daemon",
+    "description": "Ustream daemon",
+    "require": {
+        "php": ">=5.3,<5.5",
+        "ext-pcntl": "*",
+        "ext-posix": "*",
+        "psr/log": "1.0.0",
+        "symfony/event-dispatcher": ">2.1.0,<2.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~3.7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ustream_Daemon_": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tamas Ecsedi",
+            "email": "tamas.ecsedi@ustream.tv"
+        },
+        {
+            "name": "Zoltan Nemeth",
+            "email": "syntaxerror@ustream.tv"
+        },
+        {
+            "name": "Gergely Hodicska",
+            "email": "felho@ustream.tv"
+        },
+        {
+            "name": "Zoltan Szabo"
+        },
+        {
+            "name": "Zsolt Takacs",
+            "email": "takacs.zsolt@ustream.tv"
+        },
+        {
+            "name": "Peter Wilcsinszky",
+            "email": "wilcsinszky.peter@ustream.tv"
+        }
+    ]
+}
