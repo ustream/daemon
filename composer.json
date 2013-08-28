@@ -1,8 +1,13 @@
 {
     "name": "ustream/daemon",
     "description": "Ustream daemon",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
     "require": {
-        "php": ">=5.3,<5.5",
+        "php": ">=5.3,<=5.5",
         "ext-pcntl": "*",
         "ext-posix": "*",
         "psr/log": "1.0.0",
