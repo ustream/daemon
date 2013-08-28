@@ -100,6 +100,14 @@ Credits
 
 Ustream_Daemon is maintained by [ustream.tv, inc](http://ustream.tv/)
 
+Authors:
+* [Tamas Ecsedi](https://github.com/ecsy)
+* [Zoltan Nemeth](https://github.com/syntaxerror13)
+* [Gergely Hodicska](https://github.com/felho)
+* Zoltan Szabo
+* [Zsolt Takacs](https://github.com/oker1)
+* [Peter Wilcsinszky](https://github.com/pepov)
+
 License
 -------
 
