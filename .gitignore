@@ -1,3 +1,4 @@
 vendor
 composer.lock
 tests/Ustream/DaemonTest/run
+build
