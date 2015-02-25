@@ -83,7 +83,7 @@ HELP;
 				'min-sleep' => $defaultConfig->minimumSleep,
 				'memory-threshold' => $defaultConfig->memoryThreshold,
 				'log-dir' => $defaultConfig->logDir,
-				'comon-log' => $defaultConfig->customDaemonUtilLogFile,
+				'common-log' => $defaultConfig->customDaemonUtilLogFile,
 			);
 			$opts = array_merge($defaults, $opts);
 
